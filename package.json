@@ -9,7 +9,7 @@
     "babel-preset-react": "^6.24.1",
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "popper.js": "^1.16.1",
     "react": "^16.13.1",
     "react-addons-update": "^15.6.2",
